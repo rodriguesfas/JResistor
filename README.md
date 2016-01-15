@@ -5,3 +5,6 @@ o código fonte, esse aplicativo você pode executar em qualquer sistema operaci
 
 # Aplicativo
 ![JResistor](https://github.com/rodriguesfas/JResistor/blob/master/JResistor/img/App-JResisto.png)
+
+#Jar
+https://mega.nz/#!JZMBQCrD!WJITnAjRAkPZg0vfIIQvIBDu9AWTVT_GHPN2dvZgk2U
